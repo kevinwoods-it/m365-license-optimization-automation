@@ -1,5 +1,3 @@
----
-
 ## Scripts
 
 | Script | Purpose |
