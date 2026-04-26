@@ -51,4 +51,3 @@ $235,200/year — the single largest driver of savings in this scenario.
 - [Microsoft 365 Licensing Overview](https://learn.microsoft.com/en-us/microsoft-365/admin/subscriptions-and-billing/licenses)
 - [Microsoft 365 F3 for Frontline Workers](https://www.microsoft.com/en-us/microsoft-365/enterprise/f3)
 - [Entra ID User Properties](https://learn.microsoft.com/en-us/entra/fundamentals/how-to-manage-user-profile-info)
-
